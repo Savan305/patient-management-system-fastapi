@@ -7,7 +7,7 @@ A full-stack Machine Learning web application that predicts the **insurance prem
 ## 🌐 Live Demo
 
 * 🔗 **Frontend (Streamlit App):**
-  https://your-app.streamlit.app
+https://patient-management-system-fastapi-bgmmugfvybxhl5ct7hjyi8.streamlit.app/
 
 * 🔗 **Backend API (FastAPI - Swagger UI):**
   https://patient-management-system-fastapi-awd1.onrender.com/docs
